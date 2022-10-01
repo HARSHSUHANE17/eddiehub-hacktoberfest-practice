@@ -69,7 +69,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 - **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community). Then, add your name in alphabetical order. Then save your changes.**
 
 - For example
-  `- [Full Name](https://github.com/your-username)`
+  `- [HARSH SUHANE](https://github.com/your-username)`
 
 - Stage your changes.
 
